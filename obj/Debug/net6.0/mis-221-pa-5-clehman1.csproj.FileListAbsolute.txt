@@ -1,0 +1,15 @@
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/obj/Debug/net6.0/mis-221-pa-5-clehman1.csproj.AssemblyReference.cache
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/obj/Debug/net6.0/mis-221-pa-5-clehman1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/obj/Debug/net6.0/mis-221-pa-5-clehman1.AssemblyInfoInputs.cache
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/obj/Debug/net6.0/mis-221-pa-5-clehman1.AssemblyInfo.cs
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/obj/Debug/net6.0/mis-221-pa-5-clehman1.csproj.CoreCompileInputs.cache
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/bin/Debug/net6.0/mis-221-pa-5-clehman1
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/bin/Debug/net6.0/mis-221-pa-5-clehman1.deps.json
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/bin/Debug/net6.0/mis-221-pa-5-clehman1.runtimeconfig.json
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/bin/Debug/net6.0/mis-221-pa-5-clehman1.dll
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/bin/Debug/net6.0/mis-221-pa-5-clehman1.pdb
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/obj/Debug/net6.0/mis-221-pa-5-clehman1.dll
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/obj/Debug/net6.0/refint/mis-221-pa-5-clehman1.dll
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/obj/Debug/net6.0/mis-221-pa-5-clehman1.pdb
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/obj/Debug/net6.0/mis-221-pa-5-clehman1.genruntimeconfig.cache
+/Users/crawfordlehman/Desktop/Code/mis-221-pa-5-clehman1/obj/Debug/net6.0/ref/mis-221-pa-5-clehman1.dll
